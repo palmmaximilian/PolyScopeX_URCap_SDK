@@ -1,0 +1,15 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_src_path: urcap-generator/templates
+applicationNodeName: ScanPilot
+frontendType: javascript
+hasApplicationNode: true
+hasProgramNode: true
+hasSmartSkill: true
+includeDocker: false
+includeFrontend: true
+programNodeName: ProgramSwitcher
+smartSkillName: ScanPilot
+urcapId: scanpilot
+urcapName: ScanPilot
+vendorId: botsandbits
+vendorName: Bots and Bits
